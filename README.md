@@ -30,6 +30,16 @@ An open-core, production-ready clone of PageIndex (VectifyAI) — built with hie
 
 ---
 
+## ✨ Core Differentiators (Better than PageIndex)
+
+- **Structured Metadata Scoring** — Every node gets auto-scored (relevance, importance, entity density, update freshness, citation count)
+- **Hybrid Leaf-Level Vector Search** — Pure tree navigation for macro-routing + optional vector similarity ONLY at leaf nodes (best of both worlds)
+- **Memory Graph Between Sections** — Dynamic knowledge graph linking related sections across the entire document (cross-references, contradictions, dependencies)
+- **Intelligent Cost-Optimized Routing** — Cheap/fast model for tree navigation + metadata scoring, premium model only for final synthesis
+- True Vectorless-First architecture with optional hybrid mode
+- Perfect traceability + human-like reasoning
+- Enterprise multi-tenancy, compliance, and cost guards
+
 ## 🚀 Quick Links
 
 - **Live Demo** (will be here after Phase 1)
